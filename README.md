@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8206c36c-b9db-4b92-a4e7-94b87c278ee9/deploy-status)](https://app.netlify.com/sites/brave-lalande-1c5cbb/deploys)
+
 <h1 align="center">
   <img alt="reader" src="./public/favicon.png">
 
